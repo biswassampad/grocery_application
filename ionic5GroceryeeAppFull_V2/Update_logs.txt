@@ -1,0 +1,22 @@
+Whats New In this Update ?
+
+* Store Web Version Added. now you can add / manage store from website as well
+* Product variations added, now you can add variations in product like 1kg,2kg
+
+
+Bug Fixed
+
+* Product Stoke Management
+* Driver Current Status Issue
+* Order Status issue Fixed
+* Store App Vendor Profile issue Fixed
+* Toast Message Issue Fixed
+* COD amount in Driver App Fixed
+* User App Back button issue Fixed
+
+
+
+Upcomming Updates
+
+* Firebase OTP Verificaitons
+* New UI for User Web
